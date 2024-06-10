@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -13,6 +13,8 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+<!-- <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
 
 I am a researcher in the Large Language Model Team at Qualcomm AI Research. Prior to joining Qualcomm, I earned my PhD from MIT in 2021, advised by Prof. [Muriel Médard](https://www.rle.mit.edu/people/muriel-medard/). I received my M.Eng from Princeton University in 2017, advised by Prof. [Mung Chiang](https://www.purdue.edu/president/about/mung-chiang/). I earned my B.Eng from the Chinese University of Hong Kong in 2016, where I closely worked with Prof. [Minghua Chen](https://www.mhchen.com) and completed my thesis under the supervision of Prof. [Xiaoou Tang](https://en.wikipedia.org/wiki/Tang_Xiao%27ou). In 2015, I was an exchange student at MIT, where I was fortunate to work with Prof [Vincent Chan](https://netwrks.mit.edu). 
 
