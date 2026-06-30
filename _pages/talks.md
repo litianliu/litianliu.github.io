@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-** 2026 **
+**2026**
 
 Detection Uncertainty to Enhance AI Reliability
 - FASS Seminar at EURECOM, France, June 2026. 
@@ -19,7 +19,7 @@ Towards Efficient and Robust VLA for E2E Autonomous Driving
 - Keynote Presentation at WACV2026 Workshop “Large Language and Vision Models for Autonomous Driving”. 
 
 
-** 2025 **
+**2025**
 
 Topics on Career Trajectories for Information Theory Graduates
 - Penalist at ISIT2025 Alumni in Industry Committee Session
