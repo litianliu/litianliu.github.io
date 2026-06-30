@@ -32,8 +32,6 @@ As Confucius (who, like me, is from Shandong, China) noted, true wisdom involves
 
 If you are interested in the topics, check out my recent publications below. Feel free to reach me at litiliu at qti.qualcomm.com
 
-**Bio:** Litian Liu is a Research Scientist at Qualcomm AI Research, where she works on uncertainty, robustness, and efficiency in machine learning. Her research centers on efficient and reliable uncertainty estimation for out-of-distribution detection in classifiers and hallucination detection in large language models, with applications to safety-critical systems such as autonomous driving. She received her Ph.D. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. 
-
 <!-- [Preprint] Liu, L, Yao Q. "Detecting Out-of-Distribution Through the Lens of Neural Collapse." [paper](https://arxiv.org/pdf/2311.01479)-->
 
 <!-- [ICML2024] Liu, L, Yao Q. "Fast Decision Boundary based Out-of-Distribution Detector." [paper](https://arxiv.org/abs/2312.11536) [code](https://github.com/litianliu/fDBD-OOD)-->
