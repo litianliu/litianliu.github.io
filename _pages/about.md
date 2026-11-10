@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -30,7 +30,7 @@ My projects involve both producterization and research aspects. On the product s
 
 As Confucius (who, like me, is from Shandong, China) noted, true wisdom involves recognizing the limits of our knowledge. This presents a significant challenge for both humans and today's machine learning models. For example, a trustworthy classifier should raise an alert when encountering samples of classes unseen during training,  as the classifier cannot make meaningful predictions.  This corresponds to the field of Out-of-Distribution Detection. Similarly, when large language models face queries beyond their knowledge, they should transparently raise an alert instead of producing misleading outputs. This corresponds to the field of Hallucination Mitigation. 
 
-If you are interested in the topics, check out my recent publications below. Feel free to reach me at litiliu at qti.qualcomm.com
+If you are interested in the topics, check out [my Simons Institute talk](https://www.youtube.com/watch?v=o_PZYBgWspE). Feel free to reach me at litiliu at qti.qualcomm.com
 
 <!-- [Preprint] Liu, L, Yao Q. "Detecting Out-of-Distribution Through the Lens of Neural Collapse." [paper](https://arxiv.org/pdf/2311.01479)-->
 
