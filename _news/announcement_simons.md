@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2026-10-21
+date: 2026-10-08
 inline: true
 related_posts: false
 ---
 
-[Invited talk](https://www.hajim.rochester.edu/ece/news-events/events/2026/2026-10-21_liu.html) at the University of Rochester ECE Seminar Lecture Series.
+[Invited talk](https://simons.berkeley.edu/talks/litian-liu-qualcomm-ai-research-2026-10-08) at Simons Institute Workshop "Trustworthy AI: From Hallucinations to Reliable Autonomy". See recording [here](https://www.youtube.com/watch?v=o_PZYBgWspE). 
+
+
 
